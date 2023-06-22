@@ -1,0 +1,5 @@
+masu 435 2 870
+apple 43 4 172
+banana 255 3 765
+fish 4555 3 13665
+ladu 3 2 6
